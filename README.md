@@ -66,7 +66,7 @@ Resposta: Café
 
 Qual minha comida favorita escrita ao contrário?
 ```
-Resposta:  
+Resposta: ájucaram ed essuom
 ```
 Qual o meu anime favorito?
 ```
