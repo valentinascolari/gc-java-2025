@@ -70,7 +70,7 @@ Resposta: ájucaram ed essuom
 ```
 Qual o meu anime favorito?
 ```
-Resposta: 
+Resposta: Dragon Ball
 ```
 Qual meme que eu mandei o Giancarlo fez que está referenciando em um vídeo?
 ```
@@ -78,9 +78,9 @@ Resposta:
 ```
 Qual o melhor alien do Ben10?
 ```
-Resposta:
+Resposta: Aquático
 ```
 Qual o meu cantor favorito?
 ```
-Resposta:
+Resposta: Justin Bieber
 ```
