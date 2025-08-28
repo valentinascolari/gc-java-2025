@@ -1,4 +1,11 @@
 package anotacoesAulas.POO;
+public class poo{
+    public static void main(String[] args) {
+
+    }
+
+
+}
 // classe: é como a planta baixa da casa para criar um objeto;
 // ela define quais atributos(variáveis) e métodos(funcoes) um objeto desse tipo terá;
 
