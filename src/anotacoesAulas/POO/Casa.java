@@ -6,8 +6,7 @@ public class Casa {
     int quartos;
     Porta porta;
 }
-    public class Casa(String cor, int quantidadeDeJanelas){
-        this.cor = cor;
+    //public class Casa(String cor, int quantidadeDeJanelas){
+      //  this.cor = cor;
 
 
-    }
