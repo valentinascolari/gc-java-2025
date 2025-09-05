@@ -1,4 +1,5 @@
 package lista02.exercicio2;
+
 import java.util.Scanner;
 
 public class Exercicio2 {
@@ -9,7 +10,7 @@ public class Exercicio2 {
         scanner.close();
     }
 
-    public static String pedirString(Scanner scanner){
+    public static String pedirString(Scanner scanner) {
         System.out.println("Digite uma palavra: ");
         return scanner.nextLine();
     }
