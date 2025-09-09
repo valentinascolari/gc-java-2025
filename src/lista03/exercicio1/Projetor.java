@@ -1,7 +1,10 @@
 package lista03.exercicio1;
 
-public class Exercicio1 {
-    public static void main(String[] args) {
+public class Projetor {
+    public Projetor() {
+        boolean ligado;
+        String cor;
+        String marca;
 
     }
 }
