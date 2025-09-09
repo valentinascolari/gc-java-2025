@@ -13,6 +13,13 @@ public class Carro {
         ligado = ligadoParametro;
     }
 
+    public void exibirDados() {
+        System.out.println("A cor do carro é: " + this.cor);
+        System.out.println("O nível de combustível do carro é: " + this.nivelCombustivel);
+        System.out.println("A placa do carro é: " + this.placa);
+        System.out.println("O carro está ligado? " + this.ligado);
+    }
+
     public static void main(String[] args) {
         Carro carro1 = new Carro(
                 "preto",
@@ -21,9 +28,6 @@ public class Carro {
                 true
         );
 
-        System.out.println("A cor do carro é: " + carro1.cor);
-        System.out.println("O nível de combustível do carro é: " + carro1.nivelCombustivel);
-        System.out.println("A placa do carro é: " + carro1.placa);
-        System.out.println("O carro está ligado? " + carro1.ligado);
+        carro1.exibirDados();
     }
 }
