@@ -6,6 +6,10 @@ public class Carro {
     String placa;
     boolean ligado;
 
+    public Carro(){
+
+    }
+
     public Carro(String corParametro, float nivelCombParametro, String placaParametro, boolean ligadoParametro) {
         cor = corParametro;
         nivelCombustivel = nivelCombParametro;
