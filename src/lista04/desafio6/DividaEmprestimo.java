@@ -1,6 +1,5 @@
 package lista04.desafio6;
 
-// Dívida de empréstimo
 public class DividaEmprestimo extends Divida {
 
     public DividaEmprestimo(String cliente, double valorOriginal) {
