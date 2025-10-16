@@ -1,4 +1,4 @@
-package timeattack.desafio2;
+package timeattack1.desafio2;
 
 import java.util.Scanner;
 

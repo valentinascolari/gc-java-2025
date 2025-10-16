@@ -1,4 +1,4 @@
-package timeattack.desafio1;
+package timeattack1.desafio1;
 
 public class Desafio1 {
     public static void main(String[] args) {
