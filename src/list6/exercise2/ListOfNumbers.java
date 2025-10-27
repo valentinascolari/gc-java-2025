@@ -1,4 +1,4 @@
-package lista6.exercise2;
+package list6.exercise2;
 import java.util.*;
 
 public class ListOfNumbers {

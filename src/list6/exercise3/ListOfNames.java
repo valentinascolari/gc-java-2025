@@ -1,4 +1,4 @@
-package lista6.exercise3;
+package list6.exercise3;
 
 import java.util.HashSet;
 import java.util.Scanner;
